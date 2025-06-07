@@ -1,2 +1,2 @@
 # Tugeddah-Data-Academy
-A repo about Tugeddah Data Academy, and in extension, about Tugeddah Ltd; the how, who, why, what, where, where and everything inbetween
+...with a mission to be a channel to one's first, second and many chances at life, and currently buildinfg the next gen of data professionals.
